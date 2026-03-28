@@ -3,7 +3,7 @@
 
 A single-page personal dashboard to track goals, daily habits, savings, tasks, and calendar – with browser notifications and an AI goal coach.
 
-Live site: `https://YOUR_USERNAME.github.io/mohan-dashboard/`
+Live site: `(https://cogs980.github.io/goal_tracker/)`
 
 ---
 
